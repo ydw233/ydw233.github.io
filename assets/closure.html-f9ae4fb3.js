@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3fb8c30e","path":"/interview/javascript/closure.html","title":"闭包","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"闭包","description":"页面的描述"},"headers":[],"git":{},"filePathRelative":"interview/javascript/closure.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4d62637d","path":"/interview/javascript/deepcopy.html","title":"深拷贝","lang":"zh-CN","frontmatter":{"lang":"zh-CN","title":"深拷贝","description":"页面的描述"},"headers":[],"git":{},"filePathRelative":"interview/javascript/deepcopy.md"}');export{e as data};
